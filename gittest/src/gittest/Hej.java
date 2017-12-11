@@ -1,8 +1,8 @@
 package gittest;
-import javax.*;
+import javax.swing.*;
 public class Hej {
 public static void main(String[] args) {
 	System.out.print("hej");
-	String s1=JOptionPane.showMessageDialog(null,"JARRÅÅ);
+	JOptionPane.showMessageDialog(null,"JARRÅÅ);
 }
 }
